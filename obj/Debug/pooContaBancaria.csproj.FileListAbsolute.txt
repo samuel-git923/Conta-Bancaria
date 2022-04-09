@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.exe.config
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.exe
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\bin\Debug\pooContaBancaria.pdb
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.exe
+C:\Users\Caetano\source\repos\pooContaBancaria\pooContaBancaria\obj\Debug\pooContaBancaria.pdb
